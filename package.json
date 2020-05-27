@@ -1,0 +1,13 @@
+{
+    "name": "reveal-config",
+    "version": "0.0.1",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/parzonka/reveal-config.git"
+    },
+    "keywords": [
+      "reveal.js"
+    ],
+    "license": "MIT", 
+    "homepage": "https://github.com/parzonka/reveal-config"
+}
